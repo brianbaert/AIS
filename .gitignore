@@ -12,3 +12,5 @@ Malware/android_malware_detection.zip
 Malware/android_malware_detection/Android_Malware_Benign.csv
 Privacy/data/EMNIST/raw/gzip.zip
 /Privacy/data
+/data
+/Adversarial/data
