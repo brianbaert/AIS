@@ -14,3 +14,6 @@ Privacy/data/EMNIST/raw/gzip.zip
 /Privacy/data
 /data
 /Adversarial/data
+IDS/CICIoV2024.zip
+/ML Security/emnist/EMNIST/raw
+/ML Security/mnist/MNIST/raw
